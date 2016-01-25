@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Marcosncosta]]></title>
-        <description><![CDATA[Marcosncosta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Climbing Bio]]></title>
+        <description><![CDATA[Climbing Bio]]></description>
+        <link>https://thegrid.ai/marcosncosta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 15:24:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 15:47:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcosncosta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed66b6e6-ea85-4fca-b590-24f703f852a9.jpg">]]></description>
+            <link>https://thegrid.ai/marcosncosta/d4115d3c-aafa-4960-9de5-cd34d214172f/index.html</link>
+            <guid isPermaLink="false">d4115d3c-aafa-4960-9de5-cd34d214172f</guid>
+            <pubDate>Mon, 25 Jan 2016 15:47:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Grid is online! Get ready to share and take part of my stories as I travel in search of challenges and inspiration. Step into my world!</p>]]></description>
-            <link>undefined9c72fc1a-bf41-4d41-baa9-99dae4be85ac/index.html</link>
+            <link>https://thegrid.ai/marcosncosta/9c72fc1a-bf41-4d41-baa9-99dae4be85ac/index.html</link>
             <guid isPermaLink="false">9c72fc1a-bf41-4d41-baa9-99dae4be85ac</guid>
             <pubDate>Mon, 25 Jan 2016 15:23:57 GMT</pubDate>
         </item>
