@@ -1,7 +1,7 @@
 name: Marcosncosta
 favicon: null
 layout_spectrum: 0.51005
-typography_spectrum: 0.7036801592912525
+typography_spectrum: 0.78978
 title: Athlete Bio
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#ced5df'
   brandStrength: 0.5
   lightness: 0.6875
-  saturation: 0.5
+  saturation: 0.4375
   rhythmicContrast: 0.25
 purpose: []
