@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T03:01:56.360Z'
-dateModified: '2016-02-03T03:01:49.473Z'
+datePublished: '2016-02-03T03:04:50.575Z'
+dateModified: '2016-02-03T03:04:47.731Z'
 author: []
 title: Tesla Autopilot Feature
 sourcePath: _posts/2016-02-03-tesla-autopilot-feature.md
