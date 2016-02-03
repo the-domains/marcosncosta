@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T03:04:50.575Z'
-dateModified: '2016-02-03T03:04:47.731Z'
+datePublished: '2016-02-03T03:08:06.079Z'
+dateModified: '2016-02-03T03:08:02.690Z'
 author: []
 title: Tesla Autopilot Feature
 sourcePath: _posts/2016-02-03-tesla-autopilot-feature.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Tesla Autopilot Feature
-![](https://www.teslamotors.com/sites/default/files/images/model-s/autopilot/slide-dashboard_us.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22a9d0979452cdf67a932dea594e5634b74d172d.jpg)
