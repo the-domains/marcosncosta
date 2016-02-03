@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.spacex.com/falcon-heavy'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - engines
   - gto
 description: 'When Falcon Heavy lifts off later this year, it will be the most powerful operational rocket in the world by a factor of two. With the ability to lift into orbit over 53 metric tons (117,000 lb)--a mass equivalent to a 737 jetliner loaded with passengers, crew, luggage and fuel--Falcon Heavy can lift more than twice the payload of the next closest operational vehicle, the Delta IV Heavy, at one-third the cost.'
-datePublished: '2016-02-03T02:50:07.374Z'
-dateModified: '2016-02-03T02:50:05.067Z'
+datePublished: '2016-02-03T02:53:58.439Z'
+dateModified: '2016-02-03T02:53:55.702Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.spacex.com
   url: 'http://www.spacex.com'
   favicon: 'http://www.spacex.com/sites/all/themes/spacex2012/favicon.ico'
+url: falcon-heavy/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
