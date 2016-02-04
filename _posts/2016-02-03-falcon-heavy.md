@@ -16,8 +16,8 @@ keywords:
   - engines
   - gto
 description: 'Falcon Heavy. When Falcon Heavy lifts off later this year, it will be the most powerful operational rocket in the world by a factor of two. With the ability to lift into orbit over 53 metric tons (117,000 lb)--a mass equivalent to a 737 jetliner loaded with passengers, crew, luggage and fuel--Falcon Heavy can lift more than twice the payload of the next closest operational vehicle, the Delta IV Heavy, at one-third the cost.'
-datePublished: '2016-02-04T02:34:48.188Z'
-dateModified: '2016-02-04T02:34:43.245Z'
+datePublished: '2016-02-04T02:55:46.268Z'
+dateModified: '2016-02-04T02:55:42.227Z'
 author: []
 related: []
 app_links: []
