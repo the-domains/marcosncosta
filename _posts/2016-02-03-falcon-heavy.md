@@ -16,8 +16,8 @@ keywords:
   - engines
   - gto
 description: 'Falcon Heavy. When Falcon Heavy lifts off later this year, it will be the most powerful operational rocket in the world by a factor of two. With the ability to lift into orbit over 53 metric tons (117,000 lb)--a mass equivalent to a 737 jetliner loaded with passengers, crew, luggage and fuel--Falcon Heavy can lift more than twice the payload of the next closest operational vehicle, the Delta IV Heavy, at one-third the cost.'
-datePublished: '2016-02-03T03:07:23.420Z'
-dateModified: '2016-02-03T03:07:20.201Z'
+datePublished: '2016-02-04T01:32:31.762Z'
+dateModified: '2016-02-04T01:32:27.964Z'
 author: []
 related: []
 app_links: []
@@ -37,4 +37,10 @@ _type: MediaObject
 ---
 # Areas of Interest
 
-<article style=""><h1>Falcon Heavy</h1><p>When Falcon Heavy lifts off later this year, it will be the most powerful operational rocket in the world by a factor of two. With the ability to lift into orbit over 53 metric tons (117,000 lb)--a mass equivalent to a 737 jetliner loaded with passengers, crew, luggage and fuel--Falcon Heavy can lift more than twice the payload of the next closest operational vehicle, the Delta IV Heavy, at one-third the cost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddd4c3b290e7751ca8618ed751e0dd2f0f65e350.jpg" /></article>
+<article style=""><h1>Falcon Heavy</h1><p>When Falcon Heavy lifts off later this year, it will be the most powerful operational rocket in the world by a factor of two. With the ability to lift into orbit over 53 metric tons (117,000 lb)--a mass equivalent to a 737 jetliner loaded with passengers, crew, luggage and fuel--Falcon Heavy can lift more than twice the payload of the next closest operational vehicle, the Delta IV Heavy, at one-third the cost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34ba55fee5260504b30030738df5ab74bc5bd775.jpg" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9049ed0e-2895-488f-83ff-13da1fb50510.jpg)
+
+Tesla Model S
+
+A beautifully engineered vehicle. A technological marvel.
