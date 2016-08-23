@@ -1,5 +1,34 @@
-title: Athlete Bio
-purpose: []
+typography_spectrum: 0.78978
+color:
+  saturation: 0.6760651
+  brandStrength: 0.5
+  lightness: 0.6710526
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#6c717a'
+    - '#d5d6db'
+    - '#a88a03'
+  rhythmicContrast: 0.6127819
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3477444
+analytics:
+  twitter: null
+  google: UA-27842471-2
+  facebook: null
+name: Marcosncosta
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Intro
+    id: 25b67133-9d76-426d-a5d4-d9c3e7818075
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6760651
-  brandStrength: 0.5
-  lightness: 0.6710526
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#6c717a'
-    - '#d5d6db'
-    - '#a88a03'
-  rhythmicContrast: 0.6127819
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: UA-27842471-2
-  facebook: null
-name: Marcosncosta
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.78978
-layout_spectrum: 0.3477444
+title: Athlete Bio
+purpose: []
