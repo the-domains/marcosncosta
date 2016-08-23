@@ -4,7 +4,7 @@
         <description><![CDATA[Athlete Bio]]></description>
         <link>https://thegrid.ai/marcosncosta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:35:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcosncosta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/marcosncosta/cf2b9e56-c8fc-4404-b99b-22115e5879ad/index.html</link>
             <guid isPermaLink="false">cf2b9e56-c8fc-4404-b99b-22115e5879ad</guid>
             <pubDate>Wed, 03 Feb 2016 02:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a799231919ba94deebc8a6180017356fab371587.jpg" alt="Model S">]]></description>
+            <link>https://thegrid.ai/marcosncosta/c676b748-76b1-4784-9f0a-8da0cef62027/index.html</link>
+            <guid isPermaLink="false">c676b748-76b1-4784-9f0a-8da0cef62027</guid>
+            <pubDate>Tue, 23 Aug 2016 12:35:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Delicious, nutritious...Dalibar!]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.dropbox.com/s/0a0g4iqahh9ea1k/_DSC9727.jpg?dl=0</link>
             <guid isPermaLink="false">62cf1159-444c-4b84-8df7-63b1dd184eb3</guid>
             <pubDate>Tue, 23 Aug 2016 12:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://www.teslamotors.com/sites/default/files/images/model-s/section-initial-original.jpg?20151030">]]></description>
-            <link>https://thegrid.ai/marcosncosta/c676b748-76b1-4784-9f0a-8da0cef62027/index.html</link>
-            <guid isPermaLink="false">c676b748-76b1-4784-9f0a-8da0cef62027</guid>
-            <pubDate>Sun, 21 Aug 2016 16:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
