@@ -1,4 +1,3 @@
-layout_spectrum: 0.011876023840159178
 typography_spectrum: 0.04067429970018566
 color:
   saturation: 0.3709691814146936
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.011876023840159178
 analytics:
   twitter: null
   google: UA-27842471-2
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Intro
     id: 25b67133-9d76-426d-a5d4-d9c3e7818075
+    type: content
+  - name: Personal Interests
+    id: 06f7db6f-985d-45de-8f01-a479c14a1576
     type: content
 favicon: null
 collections:
