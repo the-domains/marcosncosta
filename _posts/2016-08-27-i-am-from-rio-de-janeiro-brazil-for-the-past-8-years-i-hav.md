@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-08-27T11:03:38.593Z'
+datePublished: '2016-08-28T01:11:28.009Z'
+sourcePath: >-
+  _posts/2016-08-27-i-am-from-rio-de-janeiro-brazil-for-the-past-8-years-i-hav.md
 author: []
 via: {}
-dateModified: '2016-08-27T11:03:21.824Z'
+dateModified: '2016-08-28T01:11:26.878Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,8 +15,6 @@ description: >-
   Ice climbing, mixed climbing, dry tooling and alpinism. I am currently a
   mountain guide at Lead Climb Mountaineering and Resource Center.
 starred: false
-sourcePath: >-
-  _posts/2016-08-27-i-am-from-rio-de-janeiro-brazil-for-the-past-8-years-i-hav.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/799caceb-29e3-429f-95f3-ef45ab6d3c6d.png)
+![Kunming Proj.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/799caceb-29e3-429f-95f3-ef45ab6d3c6d.png)
 
 I am from Rio de Janeiro, Brazil. For the past 8 years I have been living in Shanghai. I have been doing my best to develop the climbing in all mediums in China and abroad. I have been climbing for over 20 years in every climbing style. Rock, Ice and snow. Sport climbing, bouldering, traditional climbing, Ice climbing, mixed climbing, dry tooling and alpinism. I am currently a mountain guide at Lead Climb Mountaineering and Resource Center.
 
@@ -40,11 +40,11 @@ Drytooling:
 Welcome to Shuangqiaogou M8, Letpton M8+, Antimatter M11, Dark matter M11
 
 Mixed Climbing:  
-How to train your dragon M7 WI 5+ 
+How to train your dragon M7 WI 5+
 
 Alpine First Ascents:
 
-**Lierenfeng 5,362M **Shuangqiao Valley, Sichuan, **Kawarani I 5,992M **Garze, Sichuan, **Haizi Shan (Yala) 5,820M **First Ascent of the West face. Bamei, Sichuan, **Taishan West 6,468M **Minya Konka, Sichuan. 
+**Lierenfeng 5,362M **Shuangqiao Valley, Sichuan, **Kawarani I 5,992M **Garze, Sichuan, **Haizi Shan (Yala) 5,820M **First Ascent of the West face. Bamei, Sichuan, **Taishan West 6,468M **Minya Konka, Sichuan.
 
 **NOTABLE ASCENTS AND ESTABLISHED ROUTES.**
 
